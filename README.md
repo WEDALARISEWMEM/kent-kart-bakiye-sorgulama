@@ -6,7 +6,7 @@ arkadaşlar herkese selamlar öncelikle keyifli şekilde yazdığım kent kart b
 
 CODER BY KRON1K.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1108498175653859358)](https://discord.com/users/1108498175653859358)
+
 
   
 # BİLGİLENDİRME! & SORUMLULUK REDDİ
@@ -22,8 +22,7 @@ YAKINDA
 
  # iletişim veya soru için
 
-[![Discord Banner](https://api.weblutions.com/discord/invite/stclan/)](https://discord.gg/stclan)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1108498175653859358)](https://discord.com/users/1108498175653859358)
 
- - [Discord Profile](https://discord.com/users/1108498175653859358)
  # instagram
 - [instagram hesabım](https://www.instagram.com/kron1k.rat/)
