@@ -10,7 +10,7 @@ CODER BY KRON1K.
 
   
 # BİLGİLENDİRME! & SORUMLULUK REDDİ
-bu oto logini kullanan kullanıcıya aittir soırumluluk keyfi olarak yazılıp paylaşılmıştır.
+sorumluluk bu oto logini kullanan kullanıcıya aittir  keyfi olarak yazılıp paylaşılmıştır.
 
 
  # Bazı Görseller  
