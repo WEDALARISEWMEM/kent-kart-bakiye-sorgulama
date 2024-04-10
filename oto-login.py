@@ -33,8 +33,8 @@ except:
     pass  # CODER BY KRON1K
 
 # Oturum bilgileri
-phone_number = "5555555555"  # CODER BY KRON1K
-password = "555555"  # CODER BY KRON1K
+phone_number = "5555555555"  # BAŞINDA +90 YADA 0 OLMADAN TELEFON NUMARANIZI GİRİNİZ.
+password = "555555"  # 6 HANELİ ŞİFRENİZİ GİRİNİZ.
 
 # Telefon numarası kutucuğunun yüklenmesini bekleyin
 phone_input = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'input[placeholder="(XXX) XXX XX XX"]')))
